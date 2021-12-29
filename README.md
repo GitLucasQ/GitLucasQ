@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :technologist: About me
+## :raising_hand_man: About me
 I'm a Full Stack developer from Lima - Perú :earth_americas: I have experience with JavaScript technologies like Node JS, React JS, MongoDB, also I use other programming languages like Python, .NET and Java. I'm currently learning DevOps and mobile develop with React Native, my short term goal is to become an SRE
 
 If you have any offers or projects ideas, please feel free to contact me :raised_hands:
